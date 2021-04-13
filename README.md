@@ -41,7 +41,7 @@ Not really "bugs" but still issues:
 
 ## With kind regards
 - dbaumgarten#9279 ([vscode-yolol](https://marketplace.visualstudio.com/items?itemName=dbaumgarten.vscode-yolol), [yodk](https://github.com/dbaumgarten/yodk))
-- Martin#2468 aka Yolathothep ([CYLON](https://discord.gg/rmu6aCr), [YololEmulator](https://github.com/martindevans/Yolol), Referee)
+- Martin#2468 aka Yolathothep ([CYLON](https://discord.gg/rmu6aCr), [YololEmulator](https://github.com/martindevans/Yolol), [Referee](https://github.com/martindevans/Yolol-Ladder))
 - Dude112113#5906 ([Yodine](https://github.com/Dude112113/Yodine))
 - mrchip#4403
 - Nyefari#1228 (Enthusiast)
