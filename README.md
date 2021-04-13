@@ -53,5 +53,5 @@ Not really "bugs" but still issues:
 - Pasukaru#3669 (yolol.info)
 - Azurethi#0789 (ISAN, Yazur)
 - Zijkhal#0154
-- Matrixmage#4830 (Cylon founder, tool developer)
+- Matrixmage#4830 (Cylon founder, Yoloxide, tool developer)
 - rad dude broham#2970 (Cylon)
