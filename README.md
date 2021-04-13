@@ -40,18 +40,18 @@ Not really "bugs" but still issues:
 9. There is no language-specification (grammar, tokenization-rules, precedence etc.). That makes it impossible to find out if a certain behaviour is intended or a bug in the parser. Also, that makes it really hard to develop any 3rd party tools for yolol.
 
 ## With kind regards
-- dbaumgarten#9279 (vscode-yolol, yodk)
-- Martin#2468 aka Yolathothep (Cylon, YololEmulator, Referee)
-- Dude112113#5906 (Yodine Tool)
+- dbaumgarten#9279 ([vscode-yolol](https://marketplace.visualstudio.com/items?itemName=dbaumgarten.vscode-yolol), [yodk](https://github.com/dbaumgarten/yodk))
+- Martin#2468 aka Yolathothep ([CYLON](https://discord.gg/rmu6aCr), [YololEmulator](https://github.com/martindevans/Yolol), Referee)
+- Dude112113#5906 ([Yodine](https://github.com/Dude112113/Yodine))
 - mrchip#4403
 - Nyefari#1228 (Enthusiast)
 - Max#0007 (DynaStar CEO)
-- DirtyScoundrel#4096 (Cylon)
+- DirtyScoundrel#4096 ([CYLON](https://discord.gg/rmu6aCr))
 - Captain Wonders#4218 (DynaStar R&D / Shipyard Senior Staff)
 - HeatProofTex#9789 (DynaStar Shipyard Manager)
 - Short Man#2748 (DynaStar Shipyard Staff)
-- Pasukaru#3669 (yolol.info)
-- Azurethi#0789 (ISAN, Yazur)
+- Pasukaru#3669 ([Yolol.info](https://yolol.info/landing))
+- Azurethi#0789 ([ISAN](https://github.com/Collective-SB/ISAN), [Yazur](https://github.com/Azurethi/Yazur))
 - Zijkhal#0154
-- Matrixmage#4830 (Cylon founder, Yoloxide, tool developer)
-- rad dude broham#2970 (Cylon)
+- Matrixmage#4830 ([CYLON](https://discord.gg/rmu6aCr) founder, [Yoloxide](https://yoloxide.cylon.xyz/))
+- rad dude broham#2970 ([CYLON](https://discord.gg/rmu6aCr))
