@@ -1,6 +1,6 @@
 # On the state and future of YOLOL
 
-Dear Frozenbyte,
+Dear Frozenbyte,  
 with yolol you have given us a great tool to do a few awesome things. 
 There already is a large community around, which is developing valuable scripts for all players, holds code-golf competitions and develops third-party tools for it.
 Unfortunately it seems like yolol isn't getting as much love and attention from you, as it is getting from the playerbase.
