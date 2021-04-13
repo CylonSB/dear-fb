@@ -54,4 +54,4 @@ Not really "bugs" but still issues:
 - Azurethi#0789 (ISAN, Yazur)
 - Zijkhal#0154
 - Matrixmage#4830 (Cylon founder, tool developer)
-- rad dude broham#2970
+- rad dude broham#2970 (Cylon)
