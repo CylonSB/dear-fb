@@ -41,17 +41,17 @@ Not really "bugs" but still issues:
 
 ## With kind regards
 - dbaumgarten#9279 ([vscode-yolol](https://marketplace.visualstudio.com/items?itemName=dbaumgarten.vscode-yolol), [yodk](https://github.com/dbaumgarten/yodk))
-- Martin#2468 aka Yolathothep ([CYLON](https://discord.gg/rmu6aCr), [YololEmulator](https://github.com/martindevans/Yolol), [Referee](https://github.com/martindevans/Yolol-Ladder))
+- Martin#2468 aka Yolathothep ([Cylon](https://discord.gg/rmu6aCr), [YololEmulator](https://github.com/martindevans/Yolol), [Referee](https://github.com/martindevans/Yolol-Ladder))
 - Dude112113#5906 ([Yodine](https://github.com/Dude112113/Yodine))
 - mrchip#4403
 - Nyefari#1228 (Enthusiast)
 - Max#0007 (DynaStar CEO)
-- DirtyScoundrel#4096 ([CYLON](https://discord.gg/rmu6aCr))
+- DirtyScoundrel#4096 ([Cylon](https://discord.gg/rmu6aCr))
 - Captain Wonders#4218 (DynaStar R&D / Shipyard Senior Staff)
 - HeatProofTex#9789 (DynaStar Shipyard Manager)
 - Short Man#2748 (DynaStar Shipyard Staff)
 - Pasukaru#3669 ([Yolol.info](https://yolol.info/landing))
 - Azurethi#0789 ([ISAN](https://github.com/Collective-SB/ISAN), [Yazur](https://github.com/Azurethi/Yazur))
 - Zijkhal#0154
-- Matrixmage#4830 ([CYLON](https://discord.gg/rmu6aCr) founder, [Yoloxide](https://yoloxide.cylon.xyz/))
-- rad dude broham#2970 ([CYLON](https://discord.gg/rmu6aCr))
+- Matrixmage#4830 ([Cylon](https://discord.gg/rmu6aCr) founder, [Yoloxide](https://yoloxide.cylon.xyz/))
+- rad dude broham#2970 ([Cylon](https://discord.gg/rmu6aCr))
